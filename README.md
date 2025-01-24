@@ -1,6 +1,4 @@
-#Digital Clock with Light/Dark Mode
-
-This project is a simple Digital Clock built using HTML, CSS, and JavaScript, designed for beginner developers to explore DOM manipulation, date and time handling, and basic styling.
+Digital Clock with Light/Dark Mode
 
 Features:
 Real-Time Clock: Displays the current time in HH:MM:SS format, which updates every second.
